@@ -182,6 +182,7 @@ list-style: none;
     position: absolute;
     margin-top: 2.5rem;
     margin-left: 13.5rem;
+    z-index: 2;
   }
   .booking:hover{
     border-color: #042e43;
@@ -201,6 +202,7 @@ list-style: none;
     background-color: rgb(61, 91, 105);
     margin-left: 17.5rem;
     margin-top: 18rem;
+    z-index: 3;
   }
   .customersuport p:hover{
     color: blue;
